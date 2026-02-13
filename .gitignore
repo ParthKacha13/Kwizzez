@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.rdb
+
+# Env
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Node/Vue
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# VS Code (optional)
+.vscode/
+
+# Others
+*.zip
+*.bak
+*.swp
