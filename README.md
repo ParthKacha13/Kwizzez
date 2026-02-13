@@ -1,7 +1,7 @@
-# MAD-2_Project
-# Quiz Master – V2 🎓🧠
+# Modern Application Development Version-2 Project
+# Quiz_Master (Kwizzes) – V2 🎓🧠
 
-A full-stack quiz management system built using **Flask (Python)** for the backend and **Vue.js** for the frontend. Designed as part of the **Modern Application Development - II (MAD-II)** course.
+A full-stack quiz management system built using **Flask (Python)** for the backend and **Vue.js** for the frontend. Designed as part of the **Modern Application Development. ** 
 
 ---
 
